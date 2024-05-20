@@ -1,0 +1,21 @@
+{
+  "name": "cypress-assignment-demo",
+  "version": "1.0.0",
+  "description": "A demo project to showcase cypress framework designed on POM and reporting mechanism with allure reporting",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "cypress-pom",
+    "cypress-allure"
+  ],
+  "author": "Abdul Hameed",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cypress": "^13.9.0",
+    "typescript": "^5.4.5"
+  }
+}
